@@ -39,6 +39,6 @@ function onSubmitHandle(evt) {
     values = {};
     evt.currentTarget.reset();
   } else {
-    alert(`Please fill all required fields`);
+    alert(`Please fill all required field`);
   }
 }
